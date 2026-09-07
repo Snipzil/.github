@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/snipzil-banner.png" width="100%" alt="Snipzil's S logo on a dark magenta background" />
+<img src="https://raw.githubusercontent.com/Snipzil/.github/main/profile/assets/snipzil-banner.png" width="100%" alt="Snipzil's S logo on a dark magenta background" />
 
 <h1>Snipzil</h1>
 
@@ -19,7 +19,7 @@ Making things I want to exist.
 
 <br />
 
-<a href="https://sxpanel.org"><img src="./assets/sxpanel-wordmark.png" width="280" alt="SXPanel" /></a>
+<a href="https://sxpanel.org"><img src="https://raw.githubusercontent.com/Snipzil/.github/main/profile/assets/sxpanel-wordmark.png" width="280" alt="SXPanel" /></a>
 
 <br />
 
