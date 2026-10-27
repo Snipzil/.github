@@ -4,7 +4,7 @@
 
 <h1>Snipzil</h1>
 
-Making things I want to exist.
+I love open-source and learning!
 
 <br />
 
